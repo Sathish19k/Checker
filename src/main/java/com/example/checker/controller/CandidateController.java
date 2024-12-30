@@ -23,7 +23,7 @@ public class CandidateController {
 	
 	
     //To inject service dependency we use constructor inject
-	
+	private List<Candidate> list ;
 	private CandidateServiceImpl candidateService;
 	private CandidateRepo candidaterepo;
 	
