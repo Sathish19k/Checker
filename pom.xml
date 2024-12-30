@@ -28,6 +28,10 @@
 	</scm>
 	<properties>
 		<java.version>17</java.version>
+		<sonar.host.url>http://localhost:9000</sonar.host.url>  <!-- Ensure this URL is correct -->
+    <sonar.projectKey>Sathish19k_Checker_2fd9df58-4064-4582-a863-7541428f5d9f</sonar.projectKey>
+    <sonar.projectName>Your Checker Name</sonar.projectName>
+    <sonar.projectVersion>1.0</sonar.projectVersion>
 	</properties>
 	<dependencies>
 	<dependency>
